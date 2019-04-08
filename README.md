@@ -1,2 +1,2 @@
 # PacMan
-A single PacMan game in Java
+This is a single PacMan game in Java
